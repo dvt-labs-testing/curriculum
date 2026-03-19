@@ -83,6 +83,8 @@ The curriculum teaches spec-driven development: the planning documents aren't bu
 | `/iterate` | Optional polish pass after the build is done |
 | `/evaluate` | Final evaluation with feedback and reflection |
 
+---
+
 ## Tips
 
 - **Work through the commands in order.** Each one builds on the artifacts from the previous step.
